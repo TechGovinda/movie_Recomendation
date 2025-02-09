@@ -58,17 +58,28 @@ This is a streamlit web application that can recommend various kinds of similar 
 
 ## STEPS:
 Clone the repository
-```https://github.com/entbappy/Movie-Recommender-System-Using-Machine-Learning.git```
+```
+[https://github.com/entbappy/Movie-Recommender-System-Using-Machine-Learning.git](https://github.com/TechGovinda/movie_Recomendation.git)
+```
 ## STEP 01- Create a conda environment after opening the repository
-```conda create -n movie python=3.7.10 -y```
-```conda activate movie```
+```
+conda create -n movie python=3.7.10 -y
+```
+```
+conda activate movie
+```
 ## STEP 02- install the requirements
-```pip install -r requirements.txt```
-```#run this file to generate the models
-
-```Movie Recommender System Data Analysis.ipynb```
+```
+pip install -r requirements.txt
+```
+#run thisfile to generate the models
+Movie Recommender System Data Analysis.ipynb
+```
 Now run,
-```streamlit run app.py```
+
+```
+streamlit run app.py
+```
 
 
 
