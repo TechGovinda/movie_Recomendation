@@ -22,10 +22,10 @@ Clusters of users with same ratings , similar users .
 - Book recommendation , so use cluster mechanism .
 - We take only one parameter , ratings or comments .
 - In short, collaborative filtering systems are based on the assumption that if a user likes item A and another user likes the same item A as well as another item, item B, the first user could also be interested in the second item .
-Issues are :
-* User-Item nXn matrix , so computationally expensive .
-* Only famous items will get reccomended .
-* New items might not get reccomended at all .
+- Issues are :
+  - User-Item nXn matrix , so computationally expensive .
+  - Only famous items will get reccomended .
+  - New items might not get reccomended at all .
 
 ## 3 ) Hybrid Based :
 - Hybrid systems, which combine both types of information with the aim of avoiding problems that are generated when working with just one kind.
