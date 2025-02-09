@@ -73,10 +73,9 @@ conda activate movie
 pip install -r requirements.txt
 ```
 #run thisfile to generate the models
-Movie Recommender System Data Analysis.ipynb
+Movie_Recomender_System.ipynb
 ```
 Now run,
-
 ```
 streamlit run app.py
 ```
