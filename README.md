@@ -36,4 +36,4 @@ Clusters of users with same ratings , similar users .
 This is a streamlit web application that can recommend various kinds of similar movies based on an user interest. here is a demo
 
 # Demo:
-
+<https://github.com/TechGovinda/movie_Recomendation/blob/main/3%20(1).png>
