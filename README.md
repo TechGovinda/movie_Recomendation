@@ -32,3 +32,6 @@ Clusters of users with same ratings , similar users .
 - Combination of both and used now a days .
 - Uses : word2vec , embedding .
 
+# About this project:
+This is a streamlit web application that can recommend various kinds of similar movies based on an user interest. here is a demo
+
