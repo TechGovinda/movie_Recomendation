@@ -37,3 +37,6 @@ This is a streamlit web application that can recommend various kinds of similar 
 
 # Demo:
 ![screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://github.com/TechGovinda/movie_Recomendation/blob/main/3%20(1).png)
+
+![screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.]
+(https://github.com/TechGovinda/movie_Recomendation/blob/main/1%20(3).png)
