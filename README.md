@@ -71,11 +71,15 @@ conda activate movie
 ## STEP 02- install the requirements
 ```
 pip install -r requirements.txt
+
 ```
-#run thisfile to generate the models
+``
+#run this file to generate the models
+``
 Movie_Recomender_System.ipynb
 ```
-Now run,
+## Now run,
+
 ```
 streamlit run app.py
 ```
